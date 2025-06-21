@@ -1,0 +1,5 @@
+GridSearchCV(cv=3, estimator=RandomForestClassifier(n_jobs=2, random_state=42),
+             param_grid={'criterion': ['gini', 'entropy', 'log_loss'],
+                         'min_samples_leaf': [15, 20, 25, 30, 50],
+                         'n_estimators': [100, 200, 500, 1000]},
+             scoring='roc_auc', verbose=4)

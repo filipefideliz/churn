@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/filipe/Documents/ML/churn/mlruns/0/7afa84edc2f84a7ebb31dc1ed47e91cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7afa84edc2f84a7ebb31dc1ed47e91cf
+run_name: fun-sloth-39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750468760012
+status: 1
+tags: []
+user_id: filipe

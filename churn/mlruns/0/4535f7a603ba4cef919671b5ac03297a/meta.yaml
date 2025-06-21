@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/filipe/Documents/ML/churn/mlruns/0/4535f7a603ba4cef919671b5ac03297a/artifacts
+end_time: 1750468756577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4535f7a603ba4cef919671b5ac03297a
+run_name: rebellious-pug-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750468430591
+status: 3
+tags: []
+user_id: filipe
