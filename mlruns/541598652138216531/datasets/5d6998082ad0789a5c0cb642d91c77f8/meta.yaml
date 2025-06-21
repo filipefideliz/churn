@@ -1,0 +1,26 @@
+digest: a968d08b
+name: dataset
+profile: '{"num_rows": 1039, "num_elements": 25975}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "qtdeDiasD14", "required": true},
+  {"type": "double", "name": "propAvgQtdeDias", "required": true}, {"type": "double",
+  "name": "qtdeDiasPrimeiraTransacao", "required": true}, {"type": "double", "name":
+  "qtdeDiasUltimaTransacao", "required": true}, {"type": "double", "name": "propAvgQtdePontosPos",
+  "required": true}, {"type": "double", "name": "propAvgSaldoPontos", "required":
+  true}, {"type": "double", "name": "propAvgQtdeTransacoes", "required": true}, {"type":
+  "double", "name": "propAvgMediaTransacoesDias", "required": true}, {"type": "long",
+  "name": "qtdeTransacoesD28", "required": true}, {"type": "long", "name": "qtdePontosPos",
+  "required": true}, {"type": "long", "name": "qtdeDiasD28", "required": true}, {"type":
+  "long", "name": "qtdeTransacoesD7", "required": true}, {"type": "long", "name":
+  "qtdeChatMessage", "required": true}, {"type": "double", "name": "mediaTransacoesDias",
+  "required": true}, {"type": "long", "name": "qtdeTransacoes", "required": true},
+  {"type": "long", "name": "qtdePontosPosD7", "required": true}, {"type": "long",
+  "name": "saldoPontosD28", "required": true}, {"type": "long", "name": "qtdePontosPosD28",
+  "required": true}, {"type": "long", "name": "qtdeDias", "required": true}, {"type":
+  "long", "name": "saldoPontos", "required": true}, {"type": "long", "name": "qtdeTransacoesD14",
+  "required": true}, {"type": "long", "name": "saldoPontosD14", "required": true},
+  {"type": "long", "name": "qtdePontosPosD14", "required": true}, {"type": "long",
+  "name": "qtdePresen\u00e7a", "required": true}, {"type": "long", "name": "qtdSkuDistintos",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "filipe", "mlflow.source.name": "c:\\Users\\filipe\\anaconda3\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

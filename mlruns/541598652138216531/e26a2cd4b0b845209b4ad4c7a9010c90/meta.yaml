@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/541598652138216531/e26a2cd4b0b845209b4ad4c7a9010c90/artifacts
+end_time: 1750469623052
+entry_point_name: ''
+experiment_id: '541598652138216531'
+lifecycle_stage: active
+run_id: e26a2cd4b0b845209b4ad4c7a9010c90
+run_name: clumsy-smelt-614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750469319956
+status: 3
+tags: []
+user_id: filipe
